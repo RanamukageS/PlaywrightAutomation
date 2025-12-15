@@ -1,0 +1,23 @@
+{
+  "name": "my-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report:allure": "allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "allure-playwright": "^3.4.2"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
