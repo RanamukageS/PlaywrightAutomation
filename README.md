@@ -63,6 +63,8 @@ This project automates key end-to-end test scenarios to ensure application relia
 ## 🧠 Screenshots
 Website : <img width="1367" height="798" alt="Screenshot 2025-12-16 at 10 05 45" src="https://github.com/user-attachments/assets/01cdb486-cecb-43f4-b96e-0db80bcacc8d" />
 Captured screenshots for failed screnarios : <img width="1437" height="798" alt="Screenshot 2025-12-16 at 10 08 55" src="https://github.com/user-attachments/assets/9e5d1be3-5e30-4587-b488-7f463c560d9b" />
+Test Reports(Allure Report) : <img width="1437" height="798" alt="Screenshot 2025-12-17 at 10 23 00" src="https://github.com/user-attachments/assets/5da56723-7c55-42a3-8132-22f3a46d0890" />
+
 
 
 
